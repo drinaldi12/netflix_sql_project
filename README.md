@@ -374,12 +374,31 @@ GROUP BY category
 
 **Objective:** Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
 
-## Findings and Conclusion
+## Findings and Conclusions
 
 - **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 - **Common Ratings:** Insights into the most common ratings provide an understanding of the content's target audience.
 - **Geographical Insights:** The top countries and the average content releases by the Untied States highlight regional content distribution.
 - **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
+
+## Answers to Questions
+# Note: If the answer contains a large amount of data, a count of the data results is provided as the answer instead.
+	1. Movies - 6,131; TV Shows - 2,676
+	2. Movies - TV-MA; TV Shows - TV-MA
+	3. 767 movies released in 2018
+	4. United States - 3,960; India - 1,046; United Kingdom - 806; Canada - 445; France - 393
+	5. Black Mirror: Bandersnatch
+	6. 24 Films and Shows added in the last 7 years
+	7. 3 Total Movies
+	8. 99 TV Shows
+	9. First 3: International Movies - 2,752; Dramas - 2,427; Comedies - 1,674
+	10. 2019 - 851 for 30.20%; 2020 - 828 for 29.38%; 2021 - 627 for 22.25%
+	11. 2,255 different comedies
+	12. 2,634 items (content) without a director
+	13. 4 Movies
+	14. Tara Strong (22), Samuel L. Jackson (22), Fred Tatasciore (21), Adam Sandler (20), James Franco (19), Nicolas Cage (19), Seth Rogen (18), Morgan Freeman (18), Molly Shannon (17), 			and Erin Fitzgerald (16)
+	15. Good - 8,465; Bad - 342
+
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
