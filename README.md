@@ -391,7 +391,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 ### My Socials
 
-- **LinkedIn**: [Connect with me professionally][(https://www.linkedin.com/in/dominicrinaldi)]
-- **My Portfolio**: [View my Portfolio][(https://dominicrinaldi.carrd.co/#)]
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/dominicrinaldi)
+- **My Portfolio**: [View my Portfolio](https://dominicrinaldi.carrd.co/#)
 
 Thank you for your support, and I look forward to connecting with you!
