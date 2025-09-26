@@ -382,7 +382,7 @@ GROUP BY category
 - **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 
 ## Answers to Questions
-# Note: If the answer contains a large amount of data, a count of the data results is provided as the answer instead.
+### Note: If the answer contains a large amount of data, a count of the data results is provided as the answer instead.
 	1. Movies - 6,131; TV Shows - 2,676
 	2. Movies - TV-MA; TV Shows - TV-MA
 	3. 767 movies released in 2018
@@ -396,7 +396,7 @@ GROUP BY category
 	11. 2,255 different comedies
 	12. 2,634 items (content) without a director
 	13. 4 Movies
-	14. Tara Strong (22), Samuel L. Jackson (22), Fred Tatasciore (21), Adam Sandler (20), James Franco (19), Nicolas Cage (19), Seth Rogen (18), Morgan Freeman (18), Molly Shannon (17), 			and Erin Fitzgerald (16)
+	14. Tara Strong (22), Samuel L. Jackson (22), Fred Tatasciore (21), Adam Sandler (20), James Franco (19), Nicolas Cage (19), Seth Rogen (18), Morgan Freeman (18), Molly Shannon (17), and Erin Fitzgerald (16)
 	15. Good - 8,465; Bad - 342
 
 
